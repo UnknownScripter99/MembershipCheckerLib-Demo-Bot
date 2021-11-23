@@ -9,4 +9,4 @@
   aliases: 
 CMD*/
 
-Bot.sendMessage("*You Must Join Our Channel @All_Demo_BB_Test_ByUNS99*")
+Bot.sendMessage("*You Must Join Our Channel @YourChannel *")

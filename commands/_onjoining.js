@@ -1,5 +1,5 @@
 /*CMD
-  command: /joined
+  command: /onjoining
   help: 
   need_reply: 
   auto_retry_time: 
